@@ -22,6 +22,7 @@ Before starting, make sure you have:
 
 ---
 
+
 ## Quick Start Guide
 
 ### 1. Fork This Repository
@@ -40,6 +41,7 @@ Upload your GLB and USDZ files into the repository. Replace the file paths in th
 ```bash
 src="https://raw.githubusercontent.com/<your-username>/webar-tutorial/main/your-model.glb"
 ios-src="https://raw.githubusercontent.com/<your-username>/webar-tutorial/main/your-model.usdz"
+```
 
 ---
 
@@ -50,7 +52,7 @@ ios-src="https://raw.githubusercontent.com/<your-username>/webar-tutorial/main/y
 4. Your WebAR page will be published at:
 ```bash
 https://<your-username>.github.io/webar-tutorial/.
-
+```
 ---
 
 ### 5. Test Your WebAR
