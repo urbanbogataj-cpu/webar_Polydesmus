@@ -3,6 +3,8 @@
 This project is a simple guide to help you set up a WebAR experience using [Google's Model Viewer](https://modelviewer.dev/). 
 It includes step-by-step instructions to host your 3D models (GLB for Android and USDZ for iOS) on GitHub Pages.
 
+You can **[Test this app here]**: (https://gunteralce.github.io/webar-tutorial/)
+
 ---
 
 ## Features
